@@ -1,6 +1,8 @@
 # Advanced Gulp Swiss Army
 Advanced Front End Gulp 
 
+Include Bootstrap 4 Framework. You can easily customize the Grid structure.
+
 <h2>Features</h2>
 
 <ul>
@@ -12,7 +14,7 @@ Advanced Front End Gulp
   <li>Build</li>
 </ul>
 
-Task Command:
+<h2>Task Command</h2>
 
 Gulp Watch: Listen files and work tasks SCSS, Autoprefixer, Version, Sourcemaps
 Gulp Build: Clean output separated from development environment and minify css & javascript
